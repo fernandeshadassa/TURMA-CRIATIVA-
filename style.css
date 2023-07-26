@@ -22,3 +22,12 @@ padding: 24px;
 .escola-imagem{
   width: 15%;
 }
+
+.escola {
+background-image: -moz-linear-gradient(#424E61, #16CFF8);
+color: rgb(10, 0, 0);
+display:flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
+}
